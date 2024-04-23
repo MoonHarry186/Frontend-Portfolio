@@ -1,0 +1,3 @@
+{
+    "extends": ["@babel/plugin-proposal-private-property-in-object", "next/core-web-vitals"]
+  }
